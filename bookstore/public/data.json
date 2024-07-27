@@ -1,99 +1,98 @@
 [
-
     {
-        "id":1,
-        "name":"Story Book",
-        "title":"Lorem ipsum dolor sit amet consectetur adipisicing elit",
-        "price":"0",
-        "categary" : "Free",
-        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1721999751~exp=1722003351~hmac=59acbe17ed945efb6f14b291da59631646708f06908898e658785f705f231b7f&w=740"
+        "id": 1,
+        "name": "The Adventure Begins",
+        "title": "Embark on a thrilling journey through uncharted territories.",
+        "price": "0",
+        "categary": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1721999751~exp=1722003351~hmac=59acbe17ed945efb6f14b291da59631646708f06908898e658785f705f231b7f&w=740"
     },
     {
-        "id":2,
-        "name":"E-Learning",
-        "title":"Lorem ipsum dolor sit amet consectetur adipisicing elit",
-        "price":"260",
-        "categary" : "Learning",
-        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1721999751~exp=1722003351~hmac=59acbe17ed945efb6f14b291da59631646708f06908898e658785f705f231b7f&w=740"
+        "id": 2,
+        "name": "Digital Learning Essentials",
+        "title": "Master the fundamentals of e-learning and digital education.",
+        "price": "260",
+        "categary": "Learning",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1721999751~exp=1722003351~hmac=59acbe17ed945efb6f14b291da59631646708f06908898e658785f705f231b7f&w=740"
     },
     {
-        "id":3,
-        "name":"Food Book",
-        "title":"Lorem ipsum dolor sit amet consectetur adipisicing elit",
-        "price":"299",
-        "categary" : "Food",
-        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1721999751~exp=1722003351~hmac=59acbe17ed945efb6f14b291da59631646708f06908898e658785f705f231b7f&w=740"
+        "id": 3,
+        "name": "Culinary Delights",
+        "title": "Explore delicious recipes and cooking techniques from around the world.",
+        "price": "299",
+        "categary": "Food",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1721999751~exp=1722003351~hmac=59acbe17ed945efb6f14b291da59631646708f06908898e658785f705f231b7f&w=740"
     },
     {
-        "id":4,
-        "name":"Comics Book",
-        "title":"Lorem ipsum dolor sit amet consectetur adipisicing elit",
-        "price":"0",
-        "categary" : "Comics",
-        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1721999751~exp=1722003351~hmac=59acbe17ed945efb6f14b291da59631646708f06908898e658785f705f231b7f&w=740"
+        "id": 4,
+        "name": "The Comic Universe",
+        "title": "Dive into the exciting world of superheroes and villains.",
+        "price": "0",
+        "categary": "Comics",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1721999751~exp=1722003351~hmac=59acbe17ed945efb6f14b291da59631646708f06908898e658785f705f231b7f&w=740"
     },
     {
-        "id":5,
-        "name":"Real Book",
-        "title":"Lorem ipsum dolor sit amet consectetur adipisicing elit",
-        "price":"499",
-        "categary" : "Paid",
-        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1721999751~exp=1722003351~hmac=59acbe17ed945efb6f14b291da59631646708f06908898e658785f705f231b7f&w=740"
+        "id": 5,
+        "name": "The Real World",
+        "title": "Discover stories and insights from real-life experiences.",
+        "price": "499",
+        "categary": "Paid",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1721999751~exp=1722003351~hmac=59acbe17ed945efb6f14b291da59631646708f06908898e658785f705f231b7f&w=740"
     },
     {
-        "id":6,
-        "name":" History Book",
-        "title":"Lorem ipsum dolor sit amet consectetur adipisicing elit",
-        "price":"199",
-        "categary" : "History",
-        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1721999751~exp=1722003351~hmac=59acbe17ed945efb6f14b291da59631646708f06908898e658785f705f231b7f&w=740"
+        "id": 6,
+        "name": "Historical Chronicles",
+        "title": "Uncover the secrets and events of the past.",
+        "price": "199",
+        "categary": "History",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1721999751~exp=1722003351~hmac=59acbe17ed945efb6f14b291da59631646708f06908898e658785f705f231b7f&w=740"
     },
     {
-        "id":7,
-        "name":"Story Book",
-        "title":"Lorem ipsum dolor sit amet consectetur adipisicing elit",
-        "price":"0",
-        "categary" : "Free",
-        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1721999751~exp=1722003351~hmac=59acbe17ed945efb6f14b291da59631646708f06908898e658785f705f231b7f&w=740"
+        "id": 7,
+        "name": "Tales of Mystery",
+        "title": "Immerse yourself in captivating mysteries and suspense.",
+        "price": "0",
+        "categary": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1721999751~exp=1722003351~hmac=59acbe17ed945efb6f14b291da59631646708f06908898e658785f705f231b7f&w=740"
     },
     {
-        "id":8,
-        "name":"Story Book",
-        "title":"Lorem ipsum dolor sit amet consectetur adipisicing elit",
-        "price":"0",
-        "categary" : "Free",
-        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1721999751~exp=1722003351~hmac=59acbe17ed945efb6f14b291da59631646708f06908898e658785f705f231b7f&w=740"
+        "id": 8,
+        "name": "Romantic Escapades",
+        "title": "Experience love stories that will touch your heart.",
+        "price": "350",
+        "categary": "Romance",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1721999751~exp=1722003351~hmac=59acbe17ed945efb6f14b291da59631646708f06908898e658785f705f231b7f&w=740"
     },
     {
-        "id":9,
-        "name":"Story Book",
-        "title":"Lorem ipsum dolor sit amet consectetur adipisicing elit",
-        "price":"0",
-        "categary" : "Free",
-        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1721999751~exp=1722003351~hmac=59acbe17ed945efb6f14b291da59631646708f06908898e658785f705f231b7f&w=740"
+        "id": 9,
+        "name": "Science Wonders",
+        "title": "Learn about the fascinating world of science and innovation.",
+        "price": "400",
+        "categary": "Science",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1721999751~exp=1722003351~hmac=59acbe17ed945efb6f14b291da59631646708f06908898e658785f705f231b7f&w=740"
     },
     {
-        "id":10,
-        "name":"Story Book",
-        "title":"Lorem ipsum dolor sit amet consectetur adipisicing elit",
-        "price":"0",
-        "categary" : "Free",
-        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1721999751~exp=1722003351~hmac=59acbe17ed945efb6f14b291da59631646708f06908898e658785f705f231b7f&w=740"
+        "id": 10,
+        "name": "Fantasy Realms",
+        "title": "Journey through magical worlds and epic adventures.",
+        "price": "0",
+        "categary": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1721999751~exp=1722003351~hmac=59acbe17ed945efb6f14b291da59631646708f06908898e658785f705f231b7f&w=740"
     },
     {
-        "id":11,
-        "name":"Story Book",
-        "title":"Lorem ipsum dolor sit amet consectetur adipisicing elit",
-        "price":"0",
-        "categary" : "Free",
-        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1721999751~exp=1722003351~hmac=59acbe17ed945efb6f14b291da59631646708f06908898e658785f705f231b7f&w=740"
+        "id": 11,
+        "name": "Biography of Legends",
+        "title": "Read about the lives of influential people and their legacies.",
+        "price": "450",
+        "categary": "Biography",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1721999751~exp=1722003351~hmac=59acbe17ed945efb6f14b291da59631646708f06908898e658785f705f231b7f&w=740"
     },
     {
-        "id":12,
-        "name":"Story Book",
-        "title":"Lorem ipsum dolor sit amet consectetur adipisicing elit",
-        "price":"0",
-        "categary" : "Free",
-        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1721999751~exp=1722003351~hmac=59acbe17ed945efb6f14b291da59631646708f06908898e658785f705f231b7f&w=740"
+        "id": 12,
+        "name": "Children's Fairy Tales",
+        "title": "Delight in enchanting stories for children.",
+        "price": "0",
+        "categary": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1721999751~exp=1722003351~hmac=59acbe17ed945efb6f14b291da59631646708f06908898e658785f705f231b7f&w=740"
     }
 ]
