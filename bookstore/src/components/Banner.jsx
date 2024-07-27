@@ -13,11 +13,7 @@ export default function Banner() {
               <span className="text-pink-500">new everyday!!!</span>
             </h1>
             <p className="text-xl">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit.
-              Voluptates distinctio consectetur obcaecati expedita labore
-              similique, cumque delectus aliquam pariatur velit magnam eveniet
-              magni aperiam perferendis quo. Asperiores distinctio praesentium
-              iusto?
+            Welcome to My Bookstore! Discover a wide range of books for every taste—from bestsellers to hidden gems. Our cozy space is perfect for finding your next great read. Whether you love fiction, non-fiction, or children's books, we have something for everyone. Come in, explore our shelves, and fall in love with reading all over again.
             </p>
             <label className="input input-bordered flex items-center gap-2">
               <svg

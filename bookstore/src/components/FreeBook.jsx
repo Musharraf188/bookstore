@@ -3,6 +3,7 @@ import list from "../../public/data.json";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 import Slider from "react-slick";
+import Cards from "./Cards";
 
 function FreeBook() {
   const filterData = list.filter((list) => list.categary === "Free");
@@ -44,41 +45,21 @@ function FreeBook() {
   return (
     <>
       <div className="max-w-screen-2xl container mx-auto md:px-20 px-4">
-        <h1 className="font-semibold text-x1 pb-2">Free Offered Courses</h1>
-        <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates
-          distinctio consectetur obcaecati expedita labore similique, cumque
-          delectus aliquam pariatur velit magnam eveniet magni aperiam
-          perferendis quo. Asperiores distinctio praesentium iusto?
-        </p>
-      </div>
-      <div>
-        <Slider {...settings}>
-          <div>
-            <h3>1</h3>
-          </div>
-          <div>
-            <h3>2</h3>
-          </div>
-          <div>
-            <h3>3</h3>
-          </div>
-          <div>
-            <h3>4</h3>
-          </div>
-          <div>
-            <h3>5</h3>
-          </div>
-          <div>
-            <h3>6</h3>
-          </div>
-          <div>
-            <h3>7</h3>
-          </div>
-          <div>
-            <h3>8</h3>
-          </div>
-        </Slider>
+        <div>
+          <h1 className="font-semibold text-x1 pb-2">Free Offered Courses</h1>
+          <p>
+          Dive into our selection of free courses focused on books and literature. Whether you're interested in exploring classic novels, modern fiction, or literary analysis, we have something for every book lover.Our expert-led courses are designed to enhance your reading experience.
+          </p>
+        </div>
+
+        <div>
+          <Slider {...settings}>
+          {filterData.map((item)=>{
+            return <Cards item={item} key={item.id}/>
+          })}
+          
+          </Slider>
+        </div>
       </div>
     </>
   );
